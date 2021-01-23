@@ -32,7 +32,7 @@ export default function Index() {
   return (
     <Layout>
       <Wrapper>
-        <SEO title="God jul!" />
+        <SEO title="Grattis till examen!" />
         <Main>
           <Heading>JÄTTESTORT GRATTIS TILL EXAMEN HANNA<span role="img">👩‍🎓</span> <br/></Heading>
           <Text className="pt-12 text-left">
